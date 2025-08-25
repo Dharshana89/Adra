@@ -1,0 +1,12 @@
+Username: admin 
+Password: admin
+
+Backend: 
+1. replace your db connection string
+2. Run Migration for db creation and initial data seed
+
+Frontend:
+1. in environment.ts file, replace the localhost url
+2. npm install
+2. In front end you can upload file, View all account balances and for reports you can view hitory of individual accounts by clicking on accounts.
+
